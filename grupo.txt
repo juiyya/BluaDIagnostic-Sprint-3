@@ -1,6 +1,6 @@
 ## Grupo 3
 
-https://github.com/juiyya/BluaDiagnostics-Sprint3
+https://github.com/juiyya/BluaDIagnostic-Sprint-3
 
 RM568438 Julia
 RM568081 Bryan
