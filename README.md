@@ -170,12 +170,3 @@ Abra o arquivo localizado em *notebooks/sprint1_poc.ipynb* utilizando o Google C
 
 ---
 
-## Grupo 
-
-- **RM568438** Julia 
-- **RM568081** Bryan   
-- **RM566746** Guilherme 
-- **RM567348** Roberto 
-- **RM567894** Daniel
-- **RM568024** Jessica
-
